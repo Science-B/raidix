@@ -24,6 +24,8 @@
 
 - bootstrap
 
+- lodash
+
 Сервер:
 
 - NodeJs(ExpressJs)
