@@ -24,7 +24,7 @@
 
 - bootstrap
 
-- lodash
+- lodash (сортировка)
 
 Сервер:
 
